@@ -1,0 +1,17 @@
+fieldset{
+    border: 2px solid blue;
+    padding: 20px;
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 8px;
+}
+legend{
+    color: blue;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+input{
+    width: 97%;
+}
